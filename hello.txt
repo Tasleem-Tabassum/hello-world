@@ -1,1 +1,2 @@
 Hello Artifactory and Sonar
+added webhooks checking new push to run job automatically
